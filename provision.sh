@@ -8,4 +8,6 @@ echo "
 autologin-user=ubuntu
 " > /etc/lightdm/lightdm.conf.d/autologin.conf
 
+echo "ubuntu:ubuntu" | chpasswd
+
 systemctl reboot
