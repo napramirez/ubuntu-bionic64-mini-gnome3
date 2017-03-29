@@ -2,7 +2,7 @@
 #
 
 apt-get update
-apt-get install -y --no-install-recommends ubuntu-desktop gnome-keyring gedit gnome-terminal
+apt-get install -y --no-install-recommends ubuntu-desktop gnome-keyring gedit gnome-terminal indicator-session
 echo "
 [SeatDefaults]
 autologin-user=ubuntu
