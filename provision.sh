@@ -1,6 +1,7 @@
 #!/bin/bash
 #
 
+mkdir -p /etc/lightdm/lightdm.conf.d
 echo "
 [SeatDefaults]
 autologin-user=ubuntu
