@@ -1,6 +1,6 @@
-# ubuntu-xenial64-mini-unity
+# ubuntu-bionic64-mini-gnome3
 
-ubuntu-xenial64-mini-unity is a Unity Workspace based on the Ubuntu Xenial Server installation. It aims to provide the leanest Vagrant VM possible.
+ubuntu-bionic64-mini-gnome3 is a minimal Gnome 3 Workspace based on the Ubuntu Bionic Server installation. It aims to provide the leanest Vagrant VM possible.
 
 ## Prerequisites
 - VirtualBox
